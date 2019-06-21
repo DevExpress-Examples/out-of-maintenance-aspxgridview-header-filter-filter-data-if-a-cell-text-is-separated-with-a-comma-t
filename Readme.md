@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Header Filter - Filter data if a cell text is separated with a comma
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t328262/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to customize the Header Filter to allow filtering text separated with a comma in the grid column.</p>
